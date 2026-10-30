@@ -1,0 +1,4 @@
+{"success":true,"html":"","list":[
+ {"BrandId":"EXMO","Name":"Example Marine Oils Ltd","HasIfos":true,"HasIkos":false,"HasIgen":false,"HasIpro":false,"HasIcap":false,"HasIAOS":false},
+ {"BrandId":"EXPR","Name":"Example Probiotics Inc","HasIfos":false,"HasIkos":true,"HasIgen":false,"HasIpro":false,"HasIcap":false,"HasIAOS":false}
+],"totalCount":2}
